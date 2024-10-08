@@ -1,52 +1,52 @@
 # DrinkingCraft
-Um Datapack que transforma Minecraft em um Drinking Game. Feito para a versão 1.21.1, com ```"pack_format": 48```. Projeto inspirado no Datapack "Drunkcraft", que não está mais disponível e era em inglês, com o proposito de trazer uma versão atualizada, funcional e em português. Feito por EnzuBR.
+A Datapack that turns Minecraft into a Drinking Game. Made for version 1.21.1, with ``‘pack_format’: 48``. Project inspired by the ‘Drunkcraft’ Datapack, which is no longer available and was in English, with the aim of bringing an updated, functional version in Portuguese. Made by EnzuBR.
 
 ![Exemplo de como fica a mensagem na tela](https://cdn.modrinth.com/data/cached_images/7684b7006b816873d0f73e328ab49da0b437e8f9_0.webp)
 
 ![Exemplo quebrando diamante](https://cdn.modrinth.com/data/cached_images/78b106b706a28de664e906c0fd52d4700f4c1620.gif)
 
-## Condições
-- Chance de 40% de todos beberem quando alguém quebra um diamante (Menos quem quebrou)
+## Conditions
+- 40% chance of everyone drinking when someone breaks a diamond (minus the one who broke it)
 
-- Chance de 5% de beber quando quebra obsidian
+- 5% chance of drinking when breaking obsidian
 
-- Chance de 2% de beber quando quebra ferro
+- 2% chance of drinking when breaking iron
 
-- Chance de 1% de beber quando quebra carvão
+- 1% chance of drinking when you break coal
 
-- Chance de 5% de beber quando mata um mob passivo
+- 5% chance of drinking when you kill a passive mob
 
-- Acabar a bebida quando morre
+- Finish your drink when you die
 
-- Beber quando fica 10min sem morrer
+- Drink when you go 10 minutes without dying
 
-- Beber quando seu equipamento quebra
+- Drink when your equipment breaks
 
-- Shot para o primeiro jogador a fazer uma Crafting Table
+- Shot for the first player to make a Crafting Table
 
-- Shot na primeira vez que entra no servidor
+- Shot the first time you enter the server
 
-- Todos bebem quando a primeira pessoa encontra o bioma de cogumelos
+- Everyone drinks when the first person finds the mushroom biome
 
-- Todos bebem quando a primeira pessoa entra no Nether
+- Everyone drinks when the first person enters the Nether
 
-- Todos bebem quando a primeira pessoa consegue um Full Dima (Menos quem conseguiu)
+- Everyone drinks when the first person gets a Full Dima (Except those who did)
 
-- Todos bebem quando a primeira pessoa encontra a Stronghold
+- Everyone drinks when the first person finds the Stronghold
 
-- Todos dão um Shot quando a primeira pessoa entra no End
+- Everyone takes a Shot when the first person enters the End
 
-- Todos dão um Shot quando o Ender Dragon morre pela primeira vez (Free the End)
+- Everyone takes a Shot when the Ender Dragon dies for the first time (Free the End)
 
-- Todos dão Shot quando a primeira pessoa encontra um Ancient Debris (Menos quem encontrou)
+- Everyone takes a Shot when the first person encounters an Ancient Debris (Except the one who did)
 
-- Todos dão um Shot quando a primeira pessoa consegue um Full Netherite (Menos quem conseguiu)
+- Everyone takes a Shot when the first person gets a Full Netherite (Except those who did)
 
-- Todos bebem quando a pessoa encontra uma Fortaleza do Nether
+- Everyone drinks when they find a Nether Fortress
 
-- Todos bebem quando alguem troca com um Villager pela primeira vez
+- Everyone drinks when someone exchanges with a Villager for the first time
 
-- A primeira pessoa a conseguir Return to Sender escolhe alguém para dar um Shot
+- The first person to get Return to Sender chooses someone to give a Shot to
 
 [![Mande sugestões!](https://cdn.modrinth.com/data/cached_images/f86bc23663dba709f5994d480d8bef84959fd10b.png)](https://forms.gle/ia7oY1hR5vUB4eg46)
 
