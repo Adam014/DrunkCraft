@@ -1,9 +1,5 @@
 # DrinkingCraft
-A Datapack that turns Minecraft into a Drinking Game. Made for version 1.21.1, with ``‘pack_format’: 48``. Project inspired by the ‘Drunkcraft’ Datapack, which is no longer available and was in English, with the aim of bringing an updated, functional version in Portuguese. Made by EnzuBR.
-
-![Exemplo de como fica a mensagem na tela](https://cdn.modrinth.com/data/cached_images/7684b7006b816873d0f73e328ab49da0b437e8f9_0.webp)
-
-![Exemplo quebrando diamante](https://cdn.modrinth.com/data/cached_images/78b106b706a28de664e906c0fd52d4700f4c1620.gif)
+A Datapack that turns Minecraft into a Drinking Game. Made for version 1.21.1, with ``‘pack_format’: 48``. Project inspired by the ‘Drunkcraft’ Datapack, which is no longer available, with the aim of bringing an updated.. Forked from EnzuBR.
 
 ## Conditions
 - 40% chance of everyone drinking when someone breaks a diamond (minus the one who broke it)
@@ -47,7 +43,3 @@ A Datapack that turns Minecraft into a Drinking Game. Made for version 1.21.1, w
 - Everyone drinks when someone exchanges with a Villager for the first time
 
 - The first person to get Return to Sender chooses someone to give a Shot to
-
-[![Mande sugestões!](https://cdn.modrinth.com/data/cached_images/f86bc23663dba709f5994d480d8bef84959fd10b.png)](https://forms.gle/ia7oY1hR5vUB4eg46)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0149EW0)
