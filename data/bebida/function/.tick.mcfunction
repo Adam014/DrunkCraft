@@ -1,5 +1,4 @@
-# Roda funcoes a cada tick
-# Feito por EnzuBR
+# Run functions every tick
 
 function bebida:diamante
 function bebida:carvao
